@@ -3,11 +3,11 @@ function findMatching(drivers, str) {
 }
 
 
-function fuzzyMatch(drivers, letters) {
+function fuzzyMatch(drivers, str) {
   
 }
 
 
-function matchName(drivers, letters) {
+function matchName(drivers, str) {
   
 }
