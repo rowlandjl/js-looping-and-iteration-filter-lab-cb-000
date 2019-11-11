@@ -1,5 +1,7 @@
 function findMatching(drivers, str) {
-  return drivers.filter(function(driver) {return driver.toLowerCase() == str.toLowerCase();});
+  return drivers.filter(function(driver) {
+    return driver.toLowerCase() == str.toLowerCase();
+  });
 }
 
 
